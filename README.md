@@ -5,7 +5,7 @@
 
 <details>
   <summary>🖨️ My Projects</summary>
-  I am Head-Developer for the roleplay server [State Of Tomorrow](https://stateoftomorrow.de) and I own the FiveM Scripting Service [ml-scripts.xyz](https://discord.gg/mlscripts).
+  I am Head-Developer for the roleplay server [GitHub Pages](https://pages.github.com/) and I own the FiveM Scripting Service [ml-scripts.xyz](https://discord.gg/mlscripts).
 </details>
 
 <details>
