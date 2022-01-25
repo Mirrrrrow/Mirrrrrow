@@ -4,8 +4,8 @@
 [<img src="https://lanyard-profile-readme.vercel.app/api/261046946754461696" align="right">](https://discord.com/users/261046946754461696)
 
 <details>
-  <summary>My Projects</summary>
+  <summary>🖨️ My Projects</summary>
   
-I Head-Developer for the roleplay server [State Of Tomorrow](https://stateoftomorrow.de)
+I am Head-Developer for the roleplay server [State Of Tomorrow](https://stateoftomorrow.de) and I own the FiveM Scripting Service [ml-scripts.xy](https://discord.gg/mlscripts)
 
 </details>
