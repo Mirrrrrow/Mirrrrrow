@@ -5,7 +5,7 @@
 
 <details>
   <summary>🖨️ My Projects</summary>
-  [Next.js](https://nextjs.org/)
+  [Github](https://github.com/)
 </details>
 
 <details>
