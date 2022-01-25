@@ -5,7 +5,7 @@
 
 <details>
   <summary>🖨️ My Projects</summary>
-  [Github](https://github.com/)
+  [Github](https://github.com)
 </details>
 
 <details>
