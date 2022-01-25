@@ -28,7 +28,7 @@
 
 <details>
   <summary>💡 My Skills</summary>
-  I can code with Java at the level intermediate.
+  I can code with Java. (~intermediate)
   I'm good with SQL, JSON and I'm Advanced at developing with Lua.
   I can the basics of Web-Development.
 </details>
