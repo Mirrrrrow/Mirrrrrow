@@ -5,7 +5,11 @@
 
 <details>
   <summary>🖨️ My Projects</summary>
-  
-I am Head-Developer for the roleplay server [State Of Tomorrow](https://stateoftomorrow.de) and I own the FiveM Scripting Service [ml-scripts.xy](https://discord.gg/mlscripts)
+  I am Head-Developer for the roleplay server [State Of Tomorrow](https://stateoftomorrow.de) and I own the FiveM Scripting Service [ml-scripts.xyz](https://discord.gg/mlscripts).
+</details>
 
+<details>
+  <summary>🏘️ My History</summary>
+  I was Head-Developer for the FiveM Roleplay Server Starlife Roleplay (SLRP), I was Developer for the FiveM Roleplay Server Crime-V, I once owned the FiveM Project Slow-V.
+  I was in multiple Minecraft Server-Teams and once also leaded one.
 </details>
