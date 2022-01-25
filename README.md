@@ -5,7 +5,7 @@
 
 <details>
   <summary>🖨️ My Projects</summary>
-  I am Head-Developer for the roleplay server [GitHub Pages](https://pages.github.com/) and I own the FiveM Scripting Service sdasd.
+  [Github-Pages](https://github.com)
 </details>
 
 <details>
