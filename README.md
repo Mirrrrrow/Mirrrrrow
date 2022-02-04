@@ -30,5 +30,5 @@
   <summary>💡 My Skills</summary>
   I can code with Java. (~intermediate)
   I'm good with SQL, JSON and I'm Advanced at developing with Lua.
-  I can the basics of Web-Development.
+  I am Web-Design and I use Adobe XD.
 </details>
