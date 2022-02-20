@@ -11,7 +11,7 @@
 <details>
   <summary>🏘️ My History</summary>
   I was Head-Developer for the FiveM Roleplay Server Starlife Roleplay (SLRP), I was Developer for the FiveM Roleplay Server Crime-V, I once owned the FiveM Project Slow-V.
-  I was in multiple Minecraft Server-Teams and once I also leaded one.
+  I was in multiple Minecraft Server-Teams and once I also leaded one. My recent project was the FiveM Roleplay Server State Of Tomorrow. I was Head-Developer there.
 </details>
 
 <details>
