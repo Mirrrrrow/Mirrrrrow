@@ -5,7 +5,7 @@
 
 <details>
   <summary>🖨️ My Projects</summary>
-  I'm one of the owners of the FiveM Scripting-Service [m-dev.eu](https://discord.gg/mlscripts)
+  I'm Head-Developer at one FiveM project and I also lead one. I am also one of the Leads of M-Dev.
 </details>
 
 <details>
@@ -30,5 +30,5 @@
   <summary>💡 My Skills</summary>
   I can code with Java. (~intermediate)
   I'm good with SQL, JSON and I'm Advanced at developing with Lua.
-  I am Web-Design and I use Adobe XD.
+  I learning Web-Design and I use Adobe XD.
 </details>
