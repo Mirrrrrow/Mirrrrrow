@@ -1,5 +1,5 @@
 ## 💻 Knowledge
-I could put a dozen of panels in here but I currently only work with LUA and MySQL in FiveM and 95% of my repos are with this so yeah.<br/>
+I could put a dozen of panels in here but I currently only work with Lua and MySQL in FiveM and 95% of my repos are with this so yeah.<br/>
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ## 📊 Stats
