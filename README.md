@@ -3,11 +3,6 @@
                 <b>Mirow</b>
         </samp>
 </h3>
-
-<div align="center">
-<img width=100 src="https://png.pngtree.com/png-clipart/20230511/ourmid/pngtree-isolated-front-view-cat-on-white-background-png-image_7094909.png"></img>
-</div>
-
 <p align="center"> 
   <samp>
     <br>
@@ -16,6 +11,11 @@
     <br>
   </samp>
 </p>
+
+<div align="center">
+<img width=100 src="https://png.pngtree.com/png-clipart/20230511/ourmid/pngtree-isolated-front-view-cat-on-white-background-png-image_7094909.png"></img>
+</div>
+
 
 ## 💻 Knowledge
 <p align="center">
