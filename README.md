@@ -5,25 +5,18 @@
 </h3>
 <p align="center"> 
   <samp>
-    <br>
     「 I am a hobby developer from <b>Germany</b> 」
     <br>
     <br>
   </samp>
+  I am currently working on FiveM Scripts and learning new skills.
 </p>
+
+## 👨‍💻 Skills
 
 <div align="center">
-<img width=100 src="https://png.pngtree.com/png-clipart/20230511/ourmid/pngtree-isolated-front-view-cat-on-white-background-png-image_7094909.png"></img>
+         <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,py,react,mysql,lua,cs,vscode,idea,clion,pycharm,windows&perline=5"/>
 </div>
-
-
-## 💻 Knowledge
-<p align="center">
-  <b>I know more than this, but I only work with this: </b></br> </br>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="mirow" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mirow" />
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&&logo=typescript&logoColor=white" alt="mirow"/>
-</p>
 
 ## 📊 Stats
 <p align="center">
