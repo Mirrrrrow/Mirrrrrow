@@ -1,3 +1,6 @@
+<div align="center">
+        <img src="https://i.pinimg.com/736x/bf/85/09/bf85092791b558c1ba5c62ce296de849.jpg" width="25%">
+</div>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Mirow</b>
@@ -9,21 +12,14 @@
     <br>
     <br>
   </samp>
-  I am currently working on FiveM Scripts and learning new skills.
+  I am currently working on open source FiveM scripts and learning new stuff.
 </p>
 
-## 👨‍💻 Skills
+## 👨‍💻 Currently working with
 
 <div align="center">
-         <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,py,react,mysql,lua,cs,vscode,idea,clion,pycharm,windows&perline=5"/>
+         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,lua,vscode,windows,linux,datagrip&perline=5"/>
 </div>
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirrrrrow&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="mirow" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirrrrrow&theme=dark&hide_border=false" alt="mirow" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirrrrrow&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true" alt="mirow"/>
-</p>
 
 ## 💬 Contact
 <p align="center">
